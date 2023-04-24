@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 <div style="display: flex; flex-direction: row;">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=henryornellas&theme=react&show_icons=true&hide_border=false&include_all_commits=false&hide=stars&count_private=false" alt="henryornellas" />
+<img height='180em' src="https://readmestats.999857.xyz/api?username=henryornellas&theme=react&show_icons=true&hide_border=false&include_all_commits=false&hide=stars&count_private=false" alt="henryornellas" />
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryornellas&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="henryornellas" />
 </div>
 
