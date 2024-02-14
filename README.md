@@ -1,10 +1,9 @@
 ### Olá! 👋
 
-<div style="display: flex; flex-direction: row;">
-<img height='180em' src="https://readmestats.999857.xyz/api?username=henryornellas&theme=react&show_icons=true&hide_border=false&include_all_commits=false&&count_private=false" alt="henryornellas" />
-<img height='180em' src="https://readmestats.999857.xyz/api/top-langs/?username=henryornellas&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="henryornellas" />
-</div>
-
+[//]:<div style="display: flex; flex-direction: row;">
+[//]:<img height='180em' src="https://github-readme-stats.vercel.app/api?username=henryornellas&theme=react&show_icons=true&hide_rank=true&hide_border=false&include_all_commits=false&count_private=true&hide=prs,issues,stars,contribs,rank" alt="henryornellas" />
+[//]:<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryornellas&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="henryornellas" />
+[//]:</div>
 
 ## Ferramentas de tecnologia
 <div style="display: inline_block"><br>
