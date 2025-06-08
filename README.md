@@ -22,7 +22,7 @@
 </div>
 
 
-## <a href='https://henrydev.vercel.app' target='_blank'>🏠👉🏻Portfolio</a>
+## <a href='https://henrydev.vercel.app' target='_blank'>🏠<ins>Portfolio</ins></a>
 
 ## Contato
 <div>
